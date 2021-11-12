@@ -2,4 +2,4 @@
 
 ::EL CONTENIDO DE ESTE REPOSITORIO FUE CREADO EN LA RAMA MASTER::
 
-AHI ENCONTRARAN LAS PORTADA CON LOS INTEGRANTES DEL GRUPO Y LOS ARCHIVOS FUENTES
+Ahi encontraran la portada con los integrantes del grupo y los archivos fuentes del programa y docker
