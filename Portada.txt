@@ -1,7 +1,9 @@
-proyecto de Integración Continua 2021
+Proyecto de Integración Continua 2021
 
 Integrantes:
+
 Maria Victoria Ospina Pulgarín COD. 100261142
+Hector Jair Neira Sanchez COD. 1821023134
 
 Institución Universitaria Politécnico Grancolombiano
 Facultad de Ingeniería
