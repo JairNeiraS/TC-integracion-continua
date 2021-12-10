@@ -49,7 +49,7 @@
       <a class="nav-link ml-auto mr-5" href="index.php">Home</a>
       </li>
       <li class="nav-item active">
-      <a class="nav-link ml-md-auto mr-5" href="#">Contactenos</a>
+      <a class="nav-link ml-md-auto mr-5" href="#">Contáctenos</a>
       </li>
       <li class="nav-item">
         <a class="nav-link ml-md-auto mr-5" href="productos.php">Productos</a>
