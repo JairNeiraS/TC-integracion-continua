@@ -46,7 +46,7 @@
   <img src="imagenes/logo4.png" width="200" height="55">
     <ul class="navbar-nav mr-auto ">
       <li class="nav-item active">
-      <a class="nav-link ml-auto mr-5" href="index.php">Home</a>
+      <a class="nav-link ml-auto mr-5" href="index.php">Inicio</a>
       </li>
       <li class="nav-item active">
       <a class="nav-link ml-md-auto mr-5" href="#">Contáctenos</a>
