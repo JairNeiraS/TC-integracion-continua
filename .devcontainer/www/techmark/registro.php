@@ -4,7 +4,6 @@
 require 'conexion.php';
 
 
-
 if ($_POST['vBandera'] == "1") {
 
     $pEmail = $_POST['vEmail'];
