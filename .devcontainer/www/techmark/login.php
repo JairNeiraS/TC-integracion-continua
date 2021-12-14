@@ -25,7 +25,6 @@ if ($_POST['vBandera'] == "1") {
 
 
 
-
   foreach ($Mdatos as $key => $value) {
 
     $pEmail = $_POST['vEmail'];
